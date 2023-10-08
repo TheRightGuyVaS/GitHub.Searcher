@@ -1,0 +1,12 @@
+.vs/*
+*/Properties/launchSettings.json
+.vscode/*
+*.iml
+*.idea/
+*/bin
+*/obj
+*/.vs
+.artifacts/*
+**/*.user
+*/project.lock.json
+*BenchmarkDotNet.Artifacts/
